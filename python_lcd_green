@@ -14,3 +14,4 @@ GPIO.output(17,1) #turn on pin 17
 GPIO.output(18,1) #turn on pin 18
 
 ###### THIS IS FOR WORKING WITH PINS DIRECTLY #######
+
